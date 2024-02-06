@@ -1,3 +1,25 @@
+# Video to Text Converter
+
+This project is a simple tool for converting speech from a video into text. It utilizes speech recognition technology to transcribe spoken words from a video file into written text.
+
+## Features
+
+- **Video Input:** Accepts various video formats (e.g., MP4, AVI, MOV).
+- **Speech Recognition:** Utilizes a speech recognition engine to convert audio from the video into text.
+- **Text Output:** Provides the transcribed text in a plain text format.
+- **User Interface:** Offers a user-friendly interface for easy interaction.
+
+## Getting Started
+
+To get started with using the Video to Text Converter tool, follow these steps:
+
+1. **Clone the Repository:**
+
+2. **Install Dependencies:**
+Navigate to the project directory and install any necessary dependencies:
+
+3. **Run the Application:**
+Execute the main script to launch the application:
 
 4. **Select Video File:**
 Use the provided interface to select the video file you want to transcribe.
